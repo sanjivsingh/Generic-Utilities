@@ -1,4 +1,4 @@
 # Generic-Utilities
 
 ## Databricks
-- ![Notebook Error and output cleaner](https://github.com/sanjivsingh/Generic-Utilities/tree/main/Databricks/CleanNotebookOutput)
+- ![Notebook Error and Output Cleaner](https://github.com/sanjivsingh/Generic-Utilities/tree/main/Databricks/CleanNotebookOutput)
